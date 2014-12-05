@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "name": "Haskell meetups",
+
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.242700, 106.856700]
+      },
+      "properties": {
+        "name": "Lambda Jakarta",
+        "url": "http://www.meetup.com/Lambda-Jakarta",
+        "marker-color": "#E35D5C"
+      }
+    }
+  ]
+}
