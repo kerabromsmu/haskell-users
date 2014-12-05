@@ -7,7 +7,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-8.647022, 115.147928]
+        "coordinates": [115.147928, -8.647022]
       },
       "properties": {
         "name": "Alexey Gaziev",
