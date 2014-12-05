@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "name": "Haskell users",
+
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.647022, 115.147928]
+      },
+      "properties": {
+        "name": "Alexey Gaziev",
+        "github": "gazay",
+        "twitter": "gazay",
+        "marker-color": "#FFDF5B"
+      }
+    }
+
+  ]
+}
